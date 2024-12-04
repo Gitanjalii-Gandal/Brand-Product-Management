@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "password",
+      "token": "123456"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "EcoSkincare",
+      "description": "Organic skincare products",
+      "logo": "https://via.placeholder.com/150"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "EcoFace Wash",
+      "description": "Gentle face wash",
+      "price": 19.99,
+      "category": "Skincare",
+      "image": "https://via.placeholder.com/150",
+      "brandId": 1
+    }
+  ]
+}
